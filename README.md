@@ -1,16 +1,16 @@
 # My Project
 
-This is a simple HTML & CSS project I pushed and connected to GitHub.
+Simple repo I pushed to github that covers the basics of the git-commit workflow whilst working w/ your code & terminal. 
 
 ## What I practiced
 
 - Creating a repository locally 
-- Connecting a local respository to Github
+- Connecting a local repository to GitHub
 - Renaming branches
-- Checking the status of file's
-- Adding file's to commits
-- Staging and committing changes made to file's 
-- Pushing code stored locally to Github
+- Checking the status of the file's
+- Adding files to commits
+- Staging and committing changes made to the file's 
+- Pushing code stored locally to GitHub
 
 ## Commands I Practiced
 
