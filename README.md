@@ -1,16 +1,16 @@
-# my project
+cr# my project
 
 covers the basics of the git-commit workflow 
 
 ## what I practiced
 
-- Creating a repository locally 
-- Connecting a local repository to GitHub
-- Renaming branches
-- Checking the status of the file's
-- Adding files to commits
-- Staging and committing changes made to the file's 
-- Pushing code stored locally to GitHub
+- creating a repository locally 
+- connecting a local repository to GitHub
+- renaming branches
+- checking the status of the file's
+- adding files to commits
+- staging and committing changes made to the file's 
+- pushing code stored locally to GitHub
 
 ## cmd's used
 
